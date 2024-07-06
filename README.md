@@ -1,5 +1,9 @@
-# Arduino_Crossy_Road \n
-Group member names\m
-Kelvin Creighton\n
-Jaspreet Singh Dhami\n
+# Arduino_Crossy_Road
+
+Group member names
+
+Kelvin Creighton
+
+Jaspreet Singh Dhami
+
 Aaron Chiu
